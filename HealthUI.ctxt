@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HealthUI
+comment1.params=
+comment1.target=void\ act()
+comment2.params=stage
+comment2.target=void\ healByStage(int)
+comment3.params=amount
+comment3.target=void\ healRaw(int)
+numComments=4

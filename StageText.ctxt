@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StageText
+comment1.params=txt
+comment1.target=StageText(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

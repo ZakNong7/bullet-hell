@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BossHealthBar
+comment1.params=boss\ maxHp
+comment1.target=BossHealthBar(Boss,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=newPhase
+comment3.target=void\ startPhaseTransition(int)
+comment4.params=
+comment4.target=void\ updateImage()
+numComments=5

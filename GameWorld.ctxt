@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld()
+comment10.params=
+comment10.target=void\ togglePause()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleSlowMo()
+comment4.params=
+comment4.target=void\ handlePauseInput()
+comment5.params=
+comment5.target=void\ spawnLevel()
+comment6.params=text
+comment6.target=void\ showStageText(java.lang.String)
+comment7.params=file
+comment7.target=void\ changeMusic(java.lang.String)
+comment8.params=
+comment8.target=void\ stopMusic()
+comment9.params=
+comment9.target=int\ bulletSpeedScale()
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BGM
+comment1.params=file
+comment1.target=void\ play(java.lang.String)
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=file\ volume
+comment3.target=void\ play(java.lang.String,\ int)
+comment4.params=file\ volume
+comment4.target=void\ change(java.lang.String,\ int)
+numComments=5
